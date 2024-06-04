@@ -1,5 +1,10 @@
-# **🖥️ Html**
-저의 레포지토리에 방문해주셔서 감사드립니다.
+## **🖥️ Html Repositoryo**
+Thanks for visiting Html Repository.<br>
+The repository was created as a space to study HTML using vscode and record the contents.
 
-### ✍️ 목적
-- 해당 레포지토리는 vscode를 활용하여 html을 공부하고, 해당 내용을 기록하는 공간으로 생성했습니다.
+### 📝 Directory Info
+#### 📁 01_Practice Direcotry
+This is a directory to upload practice files and assignments.
+
+#### 📁 02_Note Directory:
+This is a direcotry to organize and store notes.
