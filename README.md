@@ -1,4 +1,4 @@
-## **🖥️ Html Repositoryo**
+## **🖥️ Html Repository**
 Thanks for visiting Html Repository.<br>
 The repository was created as a space to study HTML using vscode and record the contents.
 
